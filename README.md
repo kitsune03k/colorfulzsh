@@ -1,14 +1,16 @@
 # Colorful zsh
 
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.47.19.png">
+
 macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 개인적인 기록.
 
 최대한 순정을 지향하기에 과한 튜닝을 싫어한다. 추가로 설치해야하는 프로그램들은 더더욱 싫어하고.
 
 타 os의 향만 적당히 첨가한 수준으로만 만들것이다.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.47.59.png">
 
-zshrc의 설정 이전 터미널의 기본설정은 이렇다.
+zshrc의 설정 이전에, 터미널 앱의 기본 설정은 이렇다.
 
 #
 
