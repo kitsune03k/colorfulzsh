@@ -108,7 +108,7 @@ $m	The hostname up to the first ‘.’
 
 참고 : [https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html](https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html)
 
-색상의 지정과 초기화는 아래를 적당히 이용한다.
+색상의 지정과 초기화는 원하는곳에 아래를 적당히 이용한다.
 ```
 %F{색상명}	여기서부터 foreground 색상 지정
 %f{색상명}	여기서부터 foreground 색상 초기화
@@ -130,8 +130,8 @@ $m	The hostname up to the first ‘.’
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/1a3643a9cde2563d9c4a4cbd4d8d3dd17ce2c22f/resource/Xterm_256color_chart.svg">
 source : [https://gist.github.com/jasonm23/2868981](https://gist.github.com/jasonm23/2868981)
-
-숫자로 입력하면 더 많은 색상을 선택할 수 있다.
+<>
+터미널 옵션에서 xterm-256색상을 선택하고 위의 숫자로 입력하면 더 많은 색상을 선택할 수 있다.
 
 bold체도 사용 가능하다
 ```
