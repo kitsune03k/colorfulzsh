@@ -37,6 +37,7 @@ alias ls='ls -G -a'
 alias ll='ls -G -al'
 ```
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2010.42.48.png">
+
 사실 -G 옵션은 ls에 원래 존재하기에, 위의 줄은 ls 입력마다 ls -G로 대체해주는 것일 뿐이다.
 
 ls시 색상 지정은 아래와 같이 가능하다.
