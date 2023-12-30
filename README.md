@@ -4,13 +4,15 @@
 
 macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 개인적인 기록.
 
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.47.59.png">
+
+진행 이전에 터미널 앱의 기본 설정은 이렇다.
+
 최대한 순정을 지향하기에 과한 튜닝을 싫어한다. 추가로 설치해야하는 프로그램들은 더더욱 싫어하고.
 
 타 os의 향만 적당히 첨가한 수준으로만 만들것이다.
 
-<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.47.59.png">
-
-zshrc의 설정 이전에, 터미널 앱의 기본 설정은 이렇다.
+혹시나 이 일련의 과정이 귀찮은 사람들들 위한 바로가기[]()
 
 #
 
@@ -173,3 +175,9 @@ macOS는 순정으로 Vim을 포함하고있으나, 우분투에서 쓰던 것 �
 syntax on
 ```
 한 줄만 추가해주면 된다.
+
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.52.14.png">
+
+뭐, ide처럼 깔끔한것은 아니나 그래도 색이 없었던 때 보다는 훨 낫다.
+
+색상 스키마가 마음에 안들면 "Vim Colorscheme"라 검색하면 많이 나오니 이 중 하나를 적용하면 된다.
