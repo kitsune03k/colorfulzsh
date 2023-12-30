@@ -1,8 +1,8 @@
 # Colorful zsh
 
-macOS의 기본 터미널인 zsh를 더 편하게 보기 위한 개인적인 기록.
+macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 개인적인 기록.
 
-순정을 지향해서 과한 튜닝은 최대한 삼가는 편이다.
+최대한 순정을 지향해서 과한 튜닝은 최대한 삼가는 편이다. 추가로 설치해야하는 프로그램들은 더더욱 싫어하고.
 
 ### 1. ~/.zshrc
 사용자의 홈폴더에 zshrc 파일을 만들어야한다.
@@ -21,6 +21,7 @@ ls시 색상을 표시하게 한다.
 ```
 alias ls='ls -G'
 ```
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2010.42.48.png">
 사실 -G 옵션은 ls에 원래 존재하기에, 위의 줄은 ls 입력마다 ls -G로 대체해주는 것일 뿐이다.
 
 ls시 색상 지정은 아래와 같이 가능하다.
@@ -74,8 +75,11 @@ H	bold light grey; looks like bright white
 ```
 x	default foreground or background
 ```
-
 출처 : [https://gist.github.com/thomd/7667642](https://gist.github.com/thomd/7667642)
+
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2011.40.54.png">
+순서대로 ax..., bx..., ..., hx...이다
+
 
 
 나는 여러 고민끝에 아래와 같이 해주었다.
@@ -83,4 +87,4 @@ x	default foreground or background
 
 ```
 
-### 3. color
+### 3. username & cwd
