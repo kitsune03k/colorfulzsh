@@ -140,13 +140,15 @@ source : [https://gist.github.com/jasonm23/2868981](https://gist.github.com/jaso
 
 터미널 옵션에서 xterm-256색상을 선택하고 위의 숫자로 입력하면 더 많은 색상을 선택할 수 있다.
 
-bold체도 사용 가능하다
+bold체도 사용 가능하다.
 ```
 %B	여기서부터 bold 지정
 %b	여기서부터 bold 해제
 ```
 
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.36.20.png">
 
+나는 무난하게 우분투에서 쓰던 색상, 구성으로 적용했다.
 
 ### 4. 적용
 여기까지 완성되었으면 .zshrc 파일을 저장하고 터미널로 나서
