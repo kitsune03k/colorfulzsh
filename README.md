@@ -128,7 +128,7 @@ $m	The hostname up to the first ‘.’
 007	white
 ```
 
-<>
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/1a3643a9cde2563d9c4a4cbd4d8d3dd17ce2c22f/resource/Xterm_256color_chart.svg">
 source : [https://gist.github.com/jasonm23/2868981](https://gist.github.com/jasonm23/2868981)
 
 숫자로 입력하면 더 많은 색상을 선택할 수 있다.
