@@ -95,6 +95,7 @@ x	default foreground or background
 출처 : [https://gist.github.com/thomd/7667642](https://gist.github.com/thomd/7667642)
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2011.40.54.png">
+
 순서대로 ax...(검은색 바탕이라 글자 안나옴), bx..., ..., hx...이다
 
 ```
@@ -212,9 +213,11 @@ zaibatsu
 zellner
 ```
 macOS Vim은 순정으로 위와같은 colorscheme를 가지고 있다.
+
 ```
 colorscheme default
 ```
+
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-12-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.04.19.png">
 
 필자는 우분투에서 쓰던 익숙한 느낌이 좋아서 이를 default로 지정해주었다.
