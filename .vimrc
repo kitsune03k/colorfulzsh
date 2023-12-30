@@ -4,3 +4,4 @@ set expandtab
 set shiftwidth=4
 
 syntax on
+colorscheme default
