@@ -1,0 +1,2 @@
+# colorfulzsh
+minimum colorful zsh
