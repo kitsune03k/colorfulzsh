@@ -129,8 +129,11 @@ $m	The hostname up to the first ‘.’
 ```
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/1a3643a9cde2563d9c4a4cbd4d8d3dd17ce2c22f/resource/Xterm_256color_chart.svg">
+
 source : [https://gist.github.com/jasonm23/2868981](https://gist.github.com/jasonm23/2868981)
-<>
+
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.20.11.png">
+
 터미널 옵션에서 xterm-256색상을 선택하고 위의 숫자로 입력하면 더 많은 색상을 선택할 수 있다.
 
 bold체도 사용 가능하다
