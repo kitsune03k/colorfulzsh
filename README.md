@@ -12,7 +12,9 @@ macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 
 
 타 os의 향만 적당히 첨가한 수준으로만 만들것이다.
 
-혹시나 이 일련의 과정이 귀찮은 사람들들 위한 바로가기[]()
+혹시나 필자의 미적감각과 비슷하여 마음에 들어 이를 따라하고 싶다면 이후부터 일련의 모든 과정이 참 귀찮으므로 
+
+그냥 올린 .zshrc, .vimrc를 홈 폴더에 받아서 쓰는것을 추천한다.
 
 #
 
@@ -97,7 +99,7 @@ x	default foreground or background
 ```
 export LSCOLORS=exfxcxdxbxegedabagacad
 ```
-나는 bsd 순정값을 따라가겠다.
+필자는 bsd 순정값을 따라가겠다.
 
 ### 3. username & cwd
 ```
@@ -156,7 +158,7 @@ bold체도 사용 가능하다.
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.36.20.png">
 
-나는 무난하게 우분투에서 쓰던 색상, 구성으로 적용했다.
+필자는 무난하게 우분투에서 쓰던 색상, 구성으로 적용했다.
 
 ### 4. 적용
 여기까지 완성되었으면 .zshrc 파일을 저장하고 터미널로 나서
@@ -181,8 +183,3 @@ syntax on
 뭐 ide처럼 깔끔한 것은 아니나, 그래도 색이 없었던 때 보다는 훨 낫다.
 
 색상 스키마가 마음에 안들면 "Vim Colorscheme"라 검색하면 많이 나오니 이 중 하나를 적용하면 된다.
-
-### 6. Shortcut
-
-[.zshrc]()
-[.vimrc]()
