@@ -8,7 +8,7 @@ macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 
 사용자의 홈폴더에 zshrc 파일을 만들어야한다.
 
 ```
-vi .zshrc
+vi ~/.zshrc
 ```
 zsh에서 색상을 켜준다. 
 
@@ -19,7 +19,8 @@ export CLICOLOR=1
 ### 2. ls
 ls시 색상을 표시하게 한다.
 ```
-alias ls='ls -G'
+alias ls='ls -G -a'
+alias ll='ls -G -al'
 ```
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2010.42.48.png">
 사실 -G 옵션은 ls에 원래 존재하기에, 위의 줄은 ls 입력마다 ls -G로 대체해주는 것일 뿐이다.
@@ -45,9 +46,8 @@ export LSCOLORS=...
 10.  directory writable to others, with sticky bit
 11.  directory writable to others, without sticky bit
 ```
-
-
 색상으로는 다음과 같다.
+
 ```
 a	검은색
 b	빨간색
@@ -70,6 +70,7 @@ F	bold magenta
 G	bold cyan
 H	bold light grey; looks like bright white
 ```
+단, 파일은 기본색상으로 표시된다.
 
 아무 색상도 적용하지 않은 기본값은 x이다.
 ```
@@ -80,11 +81,9 @@ x	default foreground or background
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2011.40.54.png">
 순서대로 ax..., bx..., ..., hx...이다
 
-
-
-나는 여러 고민끝에 아래와 같이 해주었다.
+나는 bsd 순정값을 따라가겠다.
 ```
-
+export LSCOLORS=exfxcxdxbxegedabagacad
 ```
 
 ### 3. username & cwd
