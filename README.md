@@ -87,3 +87,4 @@ export LSCOLORS=exfxcxdxbxegedabagacad
 ```
 
 ### 3. username & cwd
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%2012.27.46.png">
