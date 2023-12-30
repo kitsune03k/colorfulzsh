@@ -176,10 +176,46 @@ macOS는 순정으로 Vim을 포함하고있으나, 우분투에서 쓰던 것 �
 ```
 syntax on
 ```
-한 줄만 추가해주면 된다.
+을 추가하면
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.52.14.png">
 
-뭐 ide처럼 깔끔한 것은 아니나, 그래도 색이 없었던 때 보다는 훨 낫다.
+문법에 맞춰 색이 입혀지지만, 색상이 영 가독성이 좋지가 못하다. 
 
-색상 스키마가 마음에 안들면 "Vim Colorscheme"라 검색하면 많이 나오니 이 중 하나를 적용하면 된다.
+이 입혀지는 색상을 Vim에서 colorscheme라 하는데
+```
+blue
+darkblue
+default
+delek
+desert
+elflord
+evening
+habamax
+industry
+koehler
+lunaperche
+morning
+murphy
+pablo
+peachpuff
+quiet
+retrobox
+ron
+shine
+slate
+sorbet
+torte
+wildcharm
+zaibatsu
+zellner
+```
+macOS Vim은 순정으로 위와같은 colorscheme를 가지고 있다.
+```
+colorscheme default
+```
+<img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-12-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.04.19.png">
+
+필자는 우분투에서 쓰던 익숙한 느낌이 좋아서 이를 default로 지정해주었다.
+
+위의 색상 스키마가 전부 마음에 안든다면 "Vim Colorscheme"라 구글링하면 많이 나오니 이 중 하나를 적용하면 된다.
