@@ -2,7 +2,7 @@
 
 macOS Catalina부터 기본 터미널이 된 zsh를 더 편하게 보기 위한 개인적인 기록.
 
-최대한 순정을 지향해서 과한 튜닝은 최대한 삼가는 편이다. 추가로 설치해야하는 프로그램들은 더더욱 싫어하고.
+최대한 순정을 지향해서 과한 튜닝을 싫어한다. 추가로 설치해야하는 프로그램들은 더더욱 싫어하고.
 
 ### 1. ~/.zshrc
 사용자의 홈폴더에 zshrc 파일을 만들어야한다.
@@ -79,7 +79,7 @@ x	default foreground or background
 출처 : [https://gist.github.com/thomd/7667642](https://gist.github.com/thomd/7667642)
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2011.40.54.png">
-순서대로 ax..., bx..., ..., hx...이다
+순서대로 ax...(검은색 바탕이라 글자 안나옴), bx..., ..., hx...이다
 
 나는 bsd 순정값을 따라가겠다.
 ```
