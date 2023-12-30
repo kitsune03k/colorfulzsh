@@ -178,6 +178,11 @@ syntax on
 
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%ED%9B%84%202.52.14.png">
 
-뭐, ide처럼 깔끔한것은 아니나 그래도 색이 없었던 때 보다는 훨 낫다.
+뭐 ide처럼 깔끔한 것은 아니나, 그래도 색이 없었던 때 보다는 훨 낫다.
 
 색상 스키마가 마음에 안들면 "Vim Colorscheme"라 검색하면 많이 나오니 이 중 하나를 적용하면 된다.
+
+### 6. Shortcut
+
+[.zshrc]()
+[.vimrc]()
