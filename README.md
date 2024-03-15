@@ -36,7 +36,7 @@ ls시 색상을 표시하게 한다.
 alias ls='ls -G'
 alias ll='ls -G -l'
 alias la='ls -G -a'
-alias lal='ls -G -al'
+alias lla='ls -G -la'
 ```
 <img src="https://raw.githubusercontent.com/kitsune03k/colorfulzsh/main/resource/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-30%20%EC%98%A4%EC%A0%84%2010.42.48.png">
 
